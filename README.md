@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg">
+<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"> -->
 
 <!--
 **Phongdo1104/Phongdo1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
