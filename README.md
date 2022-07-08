@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- Note: might edit this later -->
+
 <!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg"> -->
 
 <!--
